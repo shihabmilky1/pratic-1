@@ -1,0 +1,165 @@
+body{
+    font-family: 'Exo', sans-serif;
+}
+/*
+====================================
+START HEADER
+====================================
+*/
+header{
+    background: url(../img/header\ bg.jpg);
+    background-size:cover ;
+    background-position: center;
+    height: 90vh;
+    position: relative;
+}
+.header-content.text-center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.header-content.text-center h2 {
+    font-size: 60px;
+    font-weight: lighter;
+    padding-bottom: 40px;
+}
+
+.header-play-icon i {
+    background: #8286a3;
+    padding: 18px;
+    color: #fff;
+    font-size: 15px;
+    border-radius: 50px;
+}
+
+.header-btn {
+    margin-top: 40px;
+}
+
+.header-btn a {
+    text-decoration: none;
+    font-weight: 400;
+    letter-spacing: 3px;
+    color: #fff;
+    background: #ff6d6d;
+    padding: 15px 50px;
+}
+/*
+====================================
+END HEADER
+====================================
+*/
+/*
+====================================
+START NEW DESIGN
+====================================
+*/
+#new-design{
+    padding: 100px 0 !important;
+}
+#new-design .color{
+    color: #ff6d6d;
+    letter-spacing: 3px;
+    font-weight: 500;
+}
+section#new-design h2 {
+    font-size: 40px;
+    font-weight: 500;
+    padding-bottom: 40px;
+}
+section#new-design h2 span {
+    color:#ff6d6d;
+}
+section#new-design p {
+color: #8a8a8a;
+font-size: 16px;
+font-weight: 500;
+}
+
+/*
+====================================
+END NEW DESIGN
+====================================
+*/
+/*
+====================================
+START NEW FEATURES
+====================================
+*/
+
+
+#new-features{
+
+    padding: 100px 0 !important;
+    background: url(../img/section3bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#new-features span{
+    color: #ff6d6d;
+    letter-spacing: 3px;
+    font-weight: 500;
+}
+section#new-features h2 {
+    font-size: 40px;
+    font-weight: 500;
+    padding-bottom: 90px;
+}
+#new-features .features h4{
+
+font-size: 22px;
+font-weight: 500;
+color: #282828;
+
+}
+#new-features .features img{
+    margin-bottom: 30px;
+}
+#new-features .features p{
+    font-size: 16px;
+    color: #858584;
+    font-weight: 500;
+    margin-bottom: 70px;
+}
+/*
+====================================
+END NEW FEAUTERS
+====================================
+*/
+/*
+====================================
+START NEW DESIGN1
+====================================
+*/
+#new-design1{
+    padding: 100px 0 ;
+    background: #ffffff
+}
+section#new-design1 img {
+    max-width: 100%;
+}
+#new-design1 .color{
+    color: #ff6d6d;
+    letter-spacing: 3px;
+    font-weight: 500;
+}
+section#new-design1 h2 {
+    font-size: 40px;
+    font-weight: 500;
+    margin-bottom: 30px;
+
+}
+section#new-design1 h2 span{
+    color: #ff6d6d;
+}
+section#new-design1 p {
+color: #8a8a8a;
+font-size: 16px;
+font-weight: 500;
+}
+/*
+====================================
+END NEW DESIGN1
+====================================
+*/
